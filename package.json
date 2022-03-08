@@ -1,0 +1,15 @@
+{
+  "name": "record-tuple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rookiewxy/record-tuple.git",
+  "author": "rookie <2586958565@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/plugin-proposal-record-and-tuple": "^7.16.7",
+    "@babel/preset-env": "^7.16.11",
+    "@bloomberg/record-tuple-polyfill": "^0.0.4"
+  }
+}

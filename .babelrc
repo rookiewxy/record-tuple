@@ -1,0 +1,12 @@
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": [
+      [
+        "@babel/plugin-proposal-record-and-tuple",
+        {
+          "importPolyfill": true,
+          "syntaxType": "hash"
+        }
+      ]
+    ]
+}
